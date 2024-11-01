@@ -1,0 +1,23 @@
+{
+  "name": "wise",
+  "version": "0.0.1",
+  "description": "Web built-In Storage Expert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Attax/wise.git"
+  },
+  "keywords": [
+    "localstorage",
+    "cookie"
+  ],
+  "author": "attax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Attax/wise/issues"
+  },
+  "homepage": "https://github.com/Attax/wise#readme"
+}
