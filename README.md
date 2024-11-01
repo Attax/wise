@@ -1,2 +1,3 @@
 # wise
-Web built-In Storage Expert
+WISE - Web built-In Storage Expert
+Manage you web storage easly
